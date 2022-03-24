@@ -1,6 +1,8 @@
 # Andrei Strelchik
+
 # Junior Frontend Developer
-********* 
+
+****
 ## Contacts
 
 Country: Belarus
@@ -12,7 +14,6 @@ E-mail: thestrelchik@gmail.com
 fb, tg, inst, vk, In, : @thestrelchik
 
 *******
-
 ## About Me
 > I am always focused on the task, and if I do not know the solution, I will always find it.
 >  For me, it is important to have complete understanding in the team and mutual assistance. I love what I do.
